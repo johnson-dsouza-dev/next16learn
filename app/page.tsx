@@ -69,7 +69,7 @@ export default function Home() {
                 </h3>
                 <p className="text-muted-foreground">
                   Never lose track of an application. Keep all your job search
-                  information in one centralized place.
+                  information in one centralized place. Lets Go
                 </p>
               </div>
             </div>
